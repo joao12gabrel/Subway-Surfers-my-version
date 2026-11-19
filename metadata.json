@@ -1,0 +1,6 @@
+{
+  "name": "Rail Rushers",
+  "description": "Jogo 3D endless runner ao estilo Subway Surfers com comboios, hoverboards, power-ups, personagens desbloqueáveis e cenários World Tour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
